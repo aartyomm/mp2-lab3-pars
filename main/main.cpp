@@ -36,3 +36,5 @@ int main() {
 	}
 	return 0;
 }
+
+//stack, queue, pos
