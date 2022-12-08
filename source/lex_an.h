@@ -1,7 +1,8 @@
 #pragma once
 #include<iostream>
-#include<queue>
 #include<string>
+#include <queue>
+//#include "myqueue.h"
 #include"lex.h"
 
 using namespace std;

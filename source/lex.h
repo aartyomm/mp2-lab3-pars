@@ -13,6 +13,7 @@ class Lexema {
 	string str;
 	TypeElement type;
 public:
+	Lexema() : str(""), type(Operation) {};
 	Lexema(string _str, TypeElement _type) : str(_str), type(_type) {};
 	string getStr() { return str; }
 	TypeElement getType() { return type; }
